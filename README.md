@@ -1,0 +1,1 @@
+This is a secure password generator, that utilizes the `nanoid` package.
