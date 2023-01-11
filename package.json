@@ -2,7 +2,8 @@
   "name": "geradorsenhas",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.html",
+  "homepage": "https://parseiro.github.io/course-annotations/",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "vite --open",
